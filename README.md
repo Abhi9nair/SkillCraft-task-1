@@ -1,7 +1,7 @@
 # SkillCraft Task 1
 
 **Intern ID:** SCT/OCT26/0277
-**Name:** Abhinav Papala
+**Name:** Papala Abhinav
 
 ## Task
 Superstore Sales Dashboard (Excel)
